@@ -1,3 +1,30 @@
+.alert {
+  padding: 15px;
+  background-color: #2196F3; /* Red */
+  color: white;
+  margin: 20px auto 0;
+  border-radius: 25px;
+  padding: 20px;
+  font-family: Tajawal-Light;
+}
+
+/* The close button */
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* When moving the mouse over the close button */
+.closebtn:hover {
+  color: black;
+}
+
 .u-section-1 {
   background-image: url("images/pexels-photo-325185.jpeg");
 }
