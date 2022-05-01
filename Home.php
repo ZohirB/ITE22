@@ -1,5 +1,6 @@
 <?php
 include ("function.php");
+/*zohir boshi*/
 ?>
 
 <!DOCTYPE html>
