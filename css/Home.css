@@ -389,29 +389,10 @@
     min-height: 1541px;
   }
 
-  .u-section-1 .u-container-layout-1 {
-    padding-bottom: 19px;
-  }
+  .u-section-1 .section-container {
+  padding-bottom: 19px;
+}
 
-  .u-section-1 .u-container-layout-2 {
-    padding-bottom: 19px;
-  }
-
-  .u-section-1 .u-container-layout-3 {
-    padding-bottom: 19px;
-  }
-
-  .u-section-1 .u-container-layout-4 {
-    padding-bottom: 19px;
-  }
-
-  .u-section-1 .u-container-layout-5 {
-    padding-bottom: 19px;
-  }
-
-  .u-section-1 .u-container-layout-6 {
-    padding-bottom: 19px;
-  }
 }@font-face {
   font-family: 'Arvo-Regular';
   font-style: normal;

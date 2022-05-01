@@ -20,15 +20,9 @@ include ("function.php");
     
     <?php
       json_script();
+      meta_name ("Main");
     ?>
 
-    <meta name="theme-color" content="#478ac9">
-    <meta name="twitter:site" content="@">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Main">
-    <meta name="twitter:description" content="">
-    <meta property="og:title" content="Main">
-    <meta property="og:type" content="website">
   </head>
   <body class="u-body"><header class="u-clearfix u-header u-sticky u-sticky-916e u-white u-header" id="sec-456e"><div class="u-clearfix u-sheet u-sheet-1">
         <a href="Home.php" data-page-id="191612849" class="u-image u-logo u-image-1" data-image-width="376" data-image-height="376" title="About" data-animation-name="rotateIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="">

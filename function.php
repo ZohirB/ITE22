@@ -31,6 +31,7 @@
         </div>
       </div></footer>";
     }
+
     function json_script(){
       echo"<script type='application/ld+json'>{
           '@context': 'http://schema.org',
@@ -45,5 +46,15 @@
               'https://t.me/Zohir_Boshi'
           ]
           }</script>";
+    }
+    
+    function  meta_name ($content_data){
+     echo"<meta name='theme-color' content='#478ac9'>
+          <meta name='twitter:site' content='@'>
+          <meta name='twitter:card' content='summary_large_image'>
+          <meta name='twitter:title' content='". $content_data ."'>
+          <meta name='twitter:description' content=''>
+          <meta property='og:title' content='". $content_data ."'>
+          <meta property='og:type' content='website'>";
     }
 ?>
